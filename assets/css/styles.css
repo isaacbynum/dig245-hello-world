@@ -1,2 +1,17 @@
 
 /* css */
+ol {
+  color: teal;
+  text-align: center;
+  list-style-position: inside;
+}
+
+ul {
+  color: blue;
+  text-align: center;
+  list-style-position: inside;
+}
+
+body {
+  text-align: center;
+}
